@@ -1,0 +1,9 @@
+Daily Productivity Notes
+
+Tasks for today:
+- Finish metadata generator notebook
+- Record demo video for Streamlit app
+- Update README on GitHub
+- Review Python project dependencies
+
+Note: Focus on keeping code clean and beginner-friendly.
